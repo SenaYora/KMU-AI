@@ -1,0 +1,24 @@
+{
+    "FinalProject_Maze": {
+        "checkpoints": [
+            {
+                "steps": 191742,
+                "file_path": "results\\MazeAgentAIMonfred2\\FinalProject_Maze\\FinalProject_Maze-191742.onnx",
+                "reward": null,
+                "creation_time": 1639282030.256286
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 191742,
+            "file_path": "results\\MazeAgentAIMonfred2\\FinalProject_Maze.onnx",
+            "reward": null,
+            "creation_time": 1639282030.256286
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.23.0",
+        "torch_version": "1.7.0+cu110",
+        "tensorflow_version": "2.6.2"
+    }
+}
